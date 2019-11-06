@@ -1,1 +1,0 @@
-; Dr.Hacknik 2019 - Radon Kernel - Licensed under the GNU LGPL License Agreement
